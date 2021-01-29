@@ -1,0 +1,10 @@
+print("My first try at Alex's Problems")
+a = 10
+b = 5
+print(a + b)
+print(a - b)
+print("I am making a"" concatenation")
+print(a * b)
+c = 2.5
+d = 3.7
+print(c + d)
